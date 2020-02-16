@@ -1,0 +1,2 @@
+# begalkaiid2020
+BEGAL TIKET KAI
