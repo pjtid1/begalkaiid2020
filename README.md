@@ -1,7 +1,4 @@
-# begalkaiid2020
-BEGAL TIKET KAI
-
-# begalkaiid2020
+# kereto_jowo
 This tools used to book ticket smartly
 This program is secret software: you cant redistribute it and/or modify. 
 It under the terms of the Himacrot License as published by the Secret Software Society, 

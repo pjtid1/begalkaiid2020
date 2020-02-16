@@ -1,0 +1,4 @@
+{"email": "wortel_uhuy@ganteng.com", "password": "uhuy123", "platform":"mobile"}
+{"address":"Gedung Kementrian Sihir Jakarta","date_return":"20190609","dep_date":"2020-03-06","des":"YK","email":"wortel_uhuy@ganteng.com","isreturn":false,"name":"Lord Voldermort","num_pax_adult":"1","num_pax_infant":"0","org":"GMR","passenger":[{"idnum":"3674012601871111","name":"Lord Voldermort","psgtype":"A"}],"phone":"081811115511","subclass":"A","subclass_return":"","train_no":"84","train_no_return":0}
+{"adult": "1","child": 0,"date": "2020-03-06","date_return": "20190609","des": "YK","des_is_city": false,"infant": 0,"isreturn": false,"org": "GMR","org_is_city": false,"subclass":"A","subclass_return":"","train_no":"84"}
+{"seat": "9A","wagon_code": "EKS","wagon_no": "4"},{"seat": "9B","wagon_code": "EKS","wagon_no": "4"},{"seat": "9C","wagon_code": "EKS","wagon_no": "4"}
